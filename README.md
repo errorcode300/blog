@@ -19,6 +19,7 @@
 * [HTTP权威指南](#http权威指南)
 * [JavaScript高级程序设计系列](#javascript高级程序设计系列)
 * [高性能JavaScript](#高性能javascript)
+* [JQuery基础](#JQuery基础)
 * [锋利的jQuery](#锋利的jquery)
 * [JavaScript权威设计](#javascript权威设计)
 * [HTML5权威指南](#html5权威指南)
