@@ -205,7 +205,8 @@
   - [高性能JavaScript--数据存储(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4915678.html)
   - [高性能JavaScript--加载和执行(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4802908.html)
   - [高性能JavaScript--快速响应的用户界面(简要学习笔记三)](http://www.cnblogs.com/zqzjs/p/4975814.html)
-
+## JQuery基础
+  - [jQuery与DOM概念，两者之间关系，"$"的涵义](https://www.cnblogs.com/Lands-ljk/p/6042630.html)
 ## 锋利的jQuery
   - [锋利的jQuery--jQuery与DOM对象的互相转换，DOM的三种操作(读书笔记一)](http://www.cnblogs.com/zqzjs/p/4918841.html)
   - [锋利的jQuery--jQuery事件，动画(读书笔记二)](http://www.cnblogs.com/zqzjs/p/4934543.html)
